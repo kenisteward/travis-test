@@ -1,0 +1,2 @@
+before_script:
+  - cat $HOME/.m2/settings.xml
